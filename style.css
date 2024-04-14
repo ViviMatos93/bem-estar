@@ -1,7 +1,15 @@
 * {
     margin:0;
     padding:0;
+
 } 
+.navbar-custom {
+    background-color: #4fa8fb;
+}
+.container-custom {
+    background-color: #b8e4ff;
+}
+
 row {background:#000;
 
 }
